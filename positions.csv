@@ -1,0 +1,15 @@
+section,in_resume,title,institution,loc,start,end,description_1,description_2,description_3
+education,TRUE,Master of Science in Program Evaluation and Data Analytics,"Arizona, United States",Arizona State University,2022,2023,Received a scholarship from Abdullah Al Ghurair Foundation for Education (AGFE).,NA,NA
+education,TRUE,Bachelor of Science in Business Administration,"Tunis, Tunisia",Tunis Business School,2018,2021,Major: Business Analytics,Minor: Information Technology,NA
+positions,TRUE,Data Analyst,"Tunis, Tunisia",ADP,2022,Present,Identify and documented detailed business rules and use cases based on requirements analysis.,Provide actionable data insights for the Commercial Operations team.,"Pull data from various sources including Salesforce.com, and various third-party sources."
+positions,TRUE,Data Analyst Intern,"Tunis, Tunisia",Winshot,2021,2021,Created a performance analysis application of retail stores using R.,"Identified, analyzed and interpreted trends in complex data sets by finding correlations and visualizing with charts",NA
+positions,TRUE,Marketing Intern,"Tunis, Tunisia",CSM GIAS,2019,2019,Sat with marketing team members to learn new tasks and determine best tactics for solving challenges and conducting Customer Surveys which improved the marketing strategy.,NA,NA
+positions,TRUE,Accounting and Finance Intern,"Tunis, Tunisia",CSM GIAS,2019,2019,Gained knowledge of accounting principles and standards and general business practices to evaluate financial data and transactions.,NA,NA
+positions,TRUE,Bank Intern,"Tunis, Tunisia",National Agricultural Bank,2018,2018,Assisted customers with setting up or closing accounts and supported with daily tasks under supervision.,NA,NA
+activities,TRUE,Fellows Program Alumni,"Tunis, Tunisia",Tunisian American Entreprise Fund (TAEF),2021,2021,NA,NA,NA
+activities,TRUE,Administration and Affairs Vice President,"Tunis, Tunisia",Club Tunivisions TBS,2020,2020,NA,NA,NA
+activities,TRUE,"Participant,Place 4 out of 12","Tunis, Tunisia",Hackathon (a digital technology competition),2020,2020,NA,NA,NA
+activities,TRUE,Event Manager,"Tunis, Tunisia",TBS BILders Club,2019,2019,NA,NA,NA
+certifications,TRUE,A Specialization in Advanced Business Analytics,NA,NA,NA,NA,NA,NA,NA
+certifications,TRUE,Introduction to Data Science in Python.,NA,NA,NA,NA,NA,NA,NA
+certifications,TRUE,IELTS Exam,NA,NA,NA,NA,NA,NA,NA
